@@ -9,7 +9,7 @@ public class Hello {
     }
 
     public static void callSign() {
-	System.out.println("Stabilize your rear deflectors... Watch for enemy fighters.”);
+	System.out.println("Stabilize your rear deflectors... Watch for enemy fighters.");
 	System.out.println("Lock S-foils in attack position.");
 	// Red Leader should add a print statement that says "Lock S-foils in attack position." 
         // Gold Leader should add a print statement that says "Stabilize your rear deflectors... Watch for enemy fighters."
@@ -17,7 +17,7 @@ public class Hello {
     }
 
     public static void goldLeader() {
-	System.out.println(“Loosen up!”);
+	System.out.println("Loosen up!");
         // Gold Leader should add a print statement that says "Loosen up!"
     
 
